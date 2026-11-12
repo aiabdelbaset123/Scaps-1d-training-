@@ -1,0 +1,8 @@
+{
+  "name": "SCAPS-1D Interactive Bilingual Workshop",
+  "description": "Complete 54-slide bilingual (English & Arabic) interactive 120-minute training workshop for SCAPS-1D solar cell simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
